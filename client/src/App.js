@@ -169,7 +169,7 @@ function App() {
       ) : (
         <div>
           {/* HEADER SECTION*/}
-          <Header title="Spark data dashboard" />
+          <Header title="Real estate sale data dashboard" />
 
           {/* AT A GLANCE SECTION */}
           {!processOverviewData ? (

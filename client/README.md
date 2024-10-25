@@ -1,5 +1,3 @@
-# front-end JavaScript coding challenge
-
 ## The challenge
 
 This repository contains a boilerplate Create React App. We have provided you a `/src/data` directory that includes a simplified dataset of MLS real estate transactions in Vancouver.

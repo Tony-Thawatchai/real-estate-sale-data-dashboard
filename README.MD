@@ -1,4 +1,4 @@
-# Front-End Coding Challenge
+# Real estate sale data dashboard
 
 ## Setup Instructions
 
