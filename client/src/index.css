@@ -80,7 +80,7 @@
     @apply border-border;
   }
   body {
-    @apply bg-base text-foreground;
+    @apply bg-white dark:bg-base text-foreground;
     font-feature-settings: "rlig" 1, "calt" 1;
   }
 }

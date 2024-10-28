@@ -67,7 +67,7 @@ function ChatSection() {
         </CardDescription>
       </CardHeader>
       <CardContent className="flex justify-center relative">
-        <Card className="w-full absolute bg-opacity-80 bg-gray-400  h-full p-4 flex items-center justify-center">
+        <Card className="w-full absolute bg-opacity-80 bg-gray-600  h-full p-4 flex items-center justify-center">
           <p className="text-white">Temporary not available to save my token cost. Contact me if you want to test it out.</p>
         </Card>
         <Card className="w-full min-h-2.5 flex flex-col items-center p-4">
